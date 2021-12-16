@@ -1,4 +1,4 @@
-# section-21-11
+# vue-composition-api-router-vuex
 
 ## Project setup
 ```
